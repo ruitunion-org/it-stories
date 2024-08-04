@@ -1,0 +1,15 @@
+# editors
+.idea/
+.vscode/
+*.swp
+# direnv
+.direnv
+.envrc
+# nodejs
+node_modules/
+# nix
+/result
+# vuepress
+src/.vuepress/.cache/
+src/.vuepress/.temp/
+src/.vuepress/dist/
