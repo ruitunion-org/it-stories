@@ -7,7 +7,7 @@ export default hopeTheme({
   // Basic configs
   // See: https://theme-hope.vuejs.press/config/theme/basic.html
 
-  hostname: "https://ruitunion-org.github.io/it-stories",
+  hostname: "https://ruitunion-org.github.io",
 
   author: {
     name: "Профсоюз работников IT",
