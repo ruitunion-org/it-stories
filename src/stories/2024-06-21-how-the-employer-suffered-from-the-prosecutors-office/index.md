@@ -4,8 +4,8 @@ date: 2024-06-21 9:00:00
 categories:
   - posts
 tags:
-  - тагил телеком
-  - трудовые отношения
+  - Тагил Телеком
+  - Трудовые отношения
 cover: /stories/2024-06-21-how-the-employer-suffered-from-the-prosecutors-office/cover.jpg
 commentsLink: "https://t.me/ruitunion/463"
 ---

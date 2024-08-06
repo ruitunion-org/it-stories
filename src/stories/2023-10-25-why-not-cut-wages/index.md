@@ -4,7 +4,7 @@ date: 2023-10-25 9:00:00
 categories:
   - posts
 tags:
-  - зарплата
+  - Зарплата
 cover: /stories/2023-10-25-why-not-cut-wages/cover.png
 commentsLink: "https://t.me/ruitunion/346"
 ---

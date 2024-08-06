@@ -4,7 +4,7 @@ date: 2024-04-17 9:00:00
 categories:
   - posts
 tags:
-  - трудовые отношения
+  - Трудовые отношения
 cover: /stories/2024-04-17-team-vs-team-lead/cover.jpg
 commentsLink: "https://t.me/ruitunion/424"
 ---

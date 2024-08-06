@@ -4,8 +4,8 @@ date: 2024-03-20 9:00:00
 categories:
   - posts
 tags:
-  - Лайк центр
-  - трудоустройство
+  - Лайк Центр
+  - Трудоустройство
   - Аяз Шабутдинов
 cover: cover.jpg
 commentsLink: "https://t.me/ruitunion/410"

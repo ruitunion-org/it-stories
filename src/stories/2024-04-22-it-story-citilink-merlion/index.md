@@ -4,10 +4,10 @@ date: 2024-04-22 9:00:00
 categories:
   - posts
 tags:
-  - зарплата
-  - индексация
-  - увольнение
-  - суд
+  - Зарплата
+  - Индексация
+  - Увольнение
+  - Суд
 cover: /stories/2024-04-22-it-story-citilink-merlion/cover.jpg
 commentsLink: "https://t.me/ruitunion/426"
 ---

@@ -4,7 +4,7 @@ date: 2024-06-07 9:00:00
 categories:
   - posts
 tags:
-  - аутстаф
+  - Аутстаф
 cover: /stories/2024-06-07-zastryt-v-autstaffe-itstory/cover.jpg
 commentsLink: "https://t.me/ruitunion/453"
 ---

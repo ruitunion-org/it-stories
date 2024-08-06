@@ -4,8 +4,8 @@ date: 2023-10-18 9:00:00
 categories:
   - posts
 tags:
-  - зарплата
-  - джуны
+  - Зарплата
+  - Джуны
 cover: /stories/2023-10-18-juniors-knock-out-salaries/cover.png
 commentsLink: "https://t.me/ruitunion/341"
 ---

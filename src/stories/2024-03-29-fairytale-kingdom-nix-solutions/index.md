@@ -4,7 +4,7 @@ date: 2024-03-29 9:00:00
 categories:
   - posts
 tags:
-  - работа
+  - Работа
 cover: /stories/2024-03-29-fairytale-kingdom-nix-solutions/cover.jpg
 commentsLink: "https://t.me/ruitunion/415"
 ---

@@ -4,7 +4,7 @@ date: 2024-04-08 9:00:00
 categories:
   - posts
 tags:
-  - увольнение
+  - Увольнение
 cover: /stories/2024-04-08-story-super-web/cover.jpg
 commentsLink: "https://t.me/ruitunion/419"
 ---

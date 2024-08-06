@@ -4,7 +4,7 @@ date: 2024-06-19 9:00:00
 categories:
   - posts
 tags:
-  - fundcount
+  - FundCount
 cover: /stories/2024-06-19-mafia-fundcount/cover.jpg
 commentsLink: "https://t.me/ruitunion/462"
 ---

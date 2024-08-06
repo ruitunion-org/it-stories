@@ -4,9 +4,9 @@ date: 2024-03-06 9:00:00
 categories:
   - posts
 tags:
-  - войти в IT
-  - джун
-  - медучреждение
+  - Войти в IT
+  - Джуны
+  - Медучреждение
 cover: /stories/2024-03-06-mol-spec-v-gos-med/cover.jpg
 commentsLink: "https://t.me/ruitunion/405"
 ---
