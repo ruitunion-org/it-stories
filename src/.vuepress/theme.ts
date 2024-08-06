@@ -84,7 +84,7 @@ export default hopeTheme({
       // codetabs: true,
       // component: true,
       // demo: true,
-      // figure: true,
+      figure: true,
       // imgLazyload: true,
       // imgSize: true,
       // include: true,
