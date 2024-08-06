@@ -79,12 +79,13 @@ export default hopeTheme({
     // Only enable features you need here
     // See: https://theme-hope.vuejs.press/guide/markdown/
     mdEnhance: {
+      figure: true,
+      hint: true,
       // align: true,
       // attrs: true,
       // codetabs: true,
       // component: true,
       // demo: true,
-      figure: true,
       // imgLazyload: true,
       // imgSize: true,
       // include: true,
