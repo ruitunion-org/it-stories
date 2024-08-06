@@ -11,6 +11,8 @@
     "docs:update-package": "pnpm dlx vp-update"
   },
   "devDependencies": {
+    "@vue/language-server": "^2.0.29",
+    "@vue/typescript-plugin": "^2.0.29",
     "@vuepress/bundler-vite": "2.0.0-rc.14",
     "@vuepress/plugin-search": "^2.0.0-rc.39",
     "typescript": "^5.5.4",
