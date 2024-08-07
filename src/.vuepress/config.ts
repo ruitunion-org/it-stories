@@ -25,5 +25,9 @@ export default defineUserConfig({
       __dirname,
       "./components/BlogCategory.vue",
     ),
+    "@theme-hope/modules/blog/components/BlogWrapper": path.resolve(
+      __dirname,
+      "./components/BlogWrapper.vue",
+    ),
   },
 });
