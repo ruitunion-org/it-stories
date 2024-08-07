@@ -15,7 +15,6 @@ const projects = computed(() => frontmatter.value.projects ?? []);
 
 <template>
   <div class="vp-page vp-blog-home">
-    <BlogHero />
     <div class="blog-page-wrapper">
       <main id="main-content" class="vp-blog-main">
         <DropTransition v-if="projects.length" appear delay="0.16">
