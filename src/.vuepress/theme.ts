@@ -57,11 +57,21 @@ export default hopeTheme({
   plugins: {
     blog: true,
 
-    search: {
-      getExtraFields: (page) => {
-        return [page.frontmatter.tags];
-        // return page.frontmatter.tags ?? [page.contentRendered];
-      },
+    searchPro: {
+      customFields: [
+        {
+          getter: (page) => page.frontmatter.categories as string[] | undefined,
+          formatter: {
+            "/": "Категория: $content",
+          },
+        },
+        {
+          getter: (page) => page.frontmatter.tags as string[] | undefined,
+          formatter: {
+            "/": "Tag: $content",
+          },
+        },
+      ],
     },
 
     // Install @waline/client before enabling it
