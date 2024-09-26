@@ -10,7 +10,7 @@ export default defineUserConfig({
   lang: "ru-RU",
   title: "IT Истории",
   description:
-    "Как работается в айтишке — честно, без прикрас и названиями работодателей",
+    "Как работается в айтишке — честно, без прикрас и с названиями работодателей",
 
   theme,
   // Enable it with pwa
