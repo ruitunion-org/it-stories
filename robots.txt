@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://ruitunion-org.github.io/it-stories/sitemap.xml
+Sitemap: https://stories.ruitunion.org/sitemap.xml
