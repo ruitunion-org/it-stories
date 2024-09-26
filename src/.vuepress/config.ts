@@ -1,12 +1,11 @@
 import { getDirname, path } from "vuepress/utils";
 import { defineUserConfig } from "vuepress";
-import { hopeTheme } from "vuepress-theme-hope";
 import theme from "./theme.js";
 
 const __dirname = getDirname(import.meta.url);
 
 export default defineUserConfig({
-  base: "/it-stories/",
+  base: "/",
 
   lang: "ru-RU",
   title: "IT Истории",
