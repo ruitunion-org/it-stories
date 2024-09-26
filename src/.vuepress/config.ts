@@ -9,7 +9,8 @@ export default defineUserConfig({
 
   lang: "ru-RU",
   title: "IT Истории",
-  description: "A blog demo for vuepress-theme-hope",
+  description:
+    "Как работается в айтишке — честно, без прикрас и названиями работодателей",
 
   theme,
   // Enable it with pwa
