@@ -56,6 +56,10 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
+    feed: {
+      rss: true,
+      atom: true,
+    },
 
     searchPro: {
       customFields: [
