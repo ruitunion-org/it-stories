@@ -3,12 +3,24 @@
   <id>https://stories.ruitunion.org/</id>
   <title>IT Истории</title>
   <subtitle>Как работается в айтишке — честно, без прикрас и с названиями работодателей</subtitle>
-  <updated>2024-12-12T09:48:37.604Z</updated>
+  <updated>2024-12-12T12:38:53.108Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://stories.ruitunion.org/atom.xml"/>
   <link rel="alternate" href="https://stories.ruitunion.org/"/>
   <category term="posts"/>
   <category term="news"/>
+  <entry>
+    <title type="text">Про сокращения в самолёте в декабре 2024 года</title>
+    <id>https://stories.ruitunion.org/stories/2024-12-12-samolet-layoffs-update/index.ru.html</id>
+    <link href="https://stories.ruitunion.org/stories/2024-12-12-samolet-layoffs-update/index.ru.html"/>
+    <updated>2024-12-12T12:34:10.000Z</updated>
+    <summary type="html"><![CDATA[<p>Я работал в самолёте почти два года. Команда собиралась с нуля под новый проект. Проект взлетел, и на конец 2024 года находился на пике своего развития --- с планами разработки на весь следующий год.</p>
+<p>В начале декабря, без каких-либо объявлений и писем, стали по одному вызывать сотрудников и сообщать: "Денег нет, мы вас сокращаем", с выплатой двух окладов. Судя по отзывам коллег, сократили 70% кластера, оставив только лидов и продуктовых овнеров. Приказ спустили сверху, с уровня главы ИТ-департамента. Сокращали без критериев по успешности и нужности проектов, максимально быстро и формально.</p>]]></summary>
+    <content type="html"><![CDATA[<p>Я работал в самолёте почти два года. Команда собиралась с нуля под новый проект. Проект взлетел, и на конец 2024 года находился на пике своего развития</p>
+]]></content>
+    <category term="posts"/>
+    <published>2024-12-12T09:00:00.000Z</published>
+  </entry>
   <entry>
     <title type="text">Суды сочли фиктивные премии в АО «АМТ-ГРУП» индексацией заработной платы</title>
     <id>https://stories.ruitunion.org/stories/2024-12-12-fictitious-premium-as-indexation/index.ru.html</id>
