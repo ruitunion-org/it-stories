@@ -6,8 +6,8 @@
     <link>https://stories.ruitunion.org/</link>
     <description>Как работается в айтишке — честно, без прикрас и с названиями работодателей</description>
     <language>ru-RU</language>
-    <pubDate>Thu, 12 Dec 2024 12:38:53 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Dec 2024 12:38:53 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Dec 2024 12:42:30 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Dec 2024 12:42:30 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>posts</category>
@@ -19,7 +19,7 @@
       <source url="https://stories.ruitunion.org/rss.xml">Про сокращения в самолёте в декабре 2024 года</source>
       <description>Я работал в самолёте почти два года. Команда собиралась с нуля под новый проект. Проект взлетел, и на конец 2024 года находился на пике своего развития --- с планами разработки ...</description>
       <category>posts</category>
-      <pubDate>Thu, 12 Dec 2024 09:00:00 GMT</pubDate>
+      <pubDate>Thu, 12 Dec 2024 15:40:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>Я работал в самолёте почти два года. Команда собиралась с нуля под новый проект. Проект взлетел, и на конец 2024 года находился на пике своего развития</p>
 ]]></content:encoded>
       <enclosure url="https://stories.ruitunion.org/stories/2024-12-12-samolet-layoffs-update/cover.jpg" type="image/jpeg"/>
