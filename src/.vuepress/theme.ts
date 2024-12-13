@@ -51,6 +51,8 @@ export default hopeTheme({
     editLink: "Изменить страницу на GitHub",
   },
 
+  contributors: false,
+
   // enable it to preview all changes in time
   // hotReload: true,
 
