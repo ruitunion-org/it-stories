@@ -34,7 +34,6 @@ jobs:
 
       - name: Install Deps
         run: |
-          corepack enable
           pnpm install --frozen-lockfile
 
       - name: Build Docs
