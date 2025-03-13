@@ -37,6 +37,7 @@ export default hopeTheme({
   // Features configs
   // See: https://theme-hope.vuejs.press/config/theme/feature.html
   blog: {
+    articlePerPage: 50,
     // See: https://theme-hope.vuejs.press/config/theme/feature.html#blog-medias
     medias: {
       Telegram: "https://example.com",
@@ -57,7 +58,9 @@ export default hopeTheme({
   // hotReload: true,
 
   plugins: {
-    blog: true,
+    blog: {
+      article: '/stories/',
+    },
     feed: {
       rss: true,
       atom: true,

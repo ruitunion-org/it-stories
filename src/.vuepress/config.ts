@@ -25,6 +25,10 @@ export default defineUserConfig({
       __dirname,
       "./components/BlogCategory.vue",
     ),
+    "@theme-hope/modules/blog/layouts/BlogType": path.resolve(
+      __dirname,
+      "./components/BlogType.vue",
+    ),
     "@theme-hope/modules/blog/components/BlogWrapper": path.resolve(
       __dirname,
       "./components/BlogWrapper.vue",
