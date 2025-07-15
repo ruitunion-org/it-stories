@@ -6,8 +6,8 @@
     <link>https://stories.ruitunion.org/</link>
     <description>Как работается в айтишке — честно, без прикрас и с названиями работодателей</description>
     <language>ru-RU</language>
-    <pubDate>Thu, 13 Mar 2025 16:51:43 GMT</pubDate>
-    <lastBuildDate>Thu, 13 Mar 2025 16:51:43 GMT</lastBuildDate>
+    <pubDate>Tue, 15 Jul 2025 18:51:01 GMT</pubDate>
+    <lastBuildDate>Tue, 15 Jul 2025 18:51:01 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>posts</category>
@@ -341,6 +341,58 @@ ruitunion.org@proton.me, и мы её опубликуем.</p>
       <enclosure url="https://stories.ruitunion.org/stories/2023-07-24-australian-story/cover.ru.jpg" type="image/jpeg"/>
     </item>
     <item>
+      <title>Урезание зарплат в Авито в Армении</title>
+      <link>https://stories.ruitunion.org/stories/2023-08-07-avito-story-1/</link>
+      <guid>https://stories.ruitunion.org/stories/2023-08-07-avito-story-1/</guid>
+      <source url="https://stories.ruitunion.org/rss.xml">Урезание зарплат в Авито в Армении</source>
+      <description>Инфо 1 августа компания Авито поставила оформленных в Армении сотрудников перед выбором: либо понижение зарплаты на 30-40%, либо увольнение с компенсацией за 1 месяц работы. Вот...</description>
+      <category>news</category>
+      <pubDate>Mon, 07 Aug 2023 09:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Инфо</p>
+<p>1 августа компания Авито поставила оформленных в Армении сотрудников
+перед выбором: либо понижение зарплаты на 30-40%, либо увольнение с компенсацией
+за 1 месяц работы. Вот история одного из сотрудников.</p>
+</div>
+<p>Я перевелась в Армению в сентябре 2022. Переезжать надо было в любом случае —
+работа мужа не готова была продолжать сотрудничество с теми, кто оставался в
+России. И изначально «Кех Армения» позиционировался как выход из такой
+безвыходной ситуации.</p>
+<p>Условия звучали нормально: зарплата конвертировалась NET to NET по внутреннему
+курсу компании, который был чуть выше курса ЦБ. Потом они начали меняться.
+Сначала в декабре всех перевели на VAT to VAT — разница между российским НДФЛ
+13% и армянским 20% вычиталась из зарплаты «на руки». В апреле изменился
+внутренний курс. В мае я получила прибавку к зарплате, на которой сказалось и
+то, и другое. Если в рублях сумма&nbsp; звучала неплохо, то после вычета
+дополнительных 7% и пересчёта зарплаты по новому курсу прибавка получилась не
+особенно большой.</p>
+<p>В июле пришла коммуникация о снижении премий. Теперь за сверхрезультат вместо
+100% зарплаты компания обещала около 70%. Объяснялось это справедливостью по
+отношению к тем, кто работает в российских юрлицах и получает зарплату в рублях.
+Казалось, что на этом всё — дальше только закрытие «Кех Армении» и сокращение
+всех сотрудников. Но компания оказалась коварнее.</p>
+<p>Сейчас выбор стоит между зарплатой-рулеткой и увольнением в никуда. Оба стула
+красивые, не знаешь, какой и выбрать. Мы с мужем планировали ехать дальше в
+Европу, и моя новая зарплата будет ненамного выше минимальной на новом месте.
+Это как минимум обидно и как максимум неудобно, ведь тратить я буду не рубли, а
+евро.</p>
+<p>Отношение к Авито за этот год сильно изменилось, ведь компания не держит своего
+слова, и даже трудовой договор ничего для неё не значит — поправим, расторгнем,
+не вопрос. Даже если предположить, что я соглашусь на новые условия, будет
+сложно продолжать работать как прежде. Ведь мой вклад в запуск новых продуктов и
+рост прибыли не даёт мне даже стабильности — получается, всё зря.</p>
+<div class="hint-container info">
+<p class="hint-container-title">Инфо</p>
+<p>Группа работников будет оспаривать законность действий компании. Мы же
+будем следить за событиями и публиковать новости в нашем
+<a href="https://t.me/ruitunion" target="_blank" rel="noopener noreferrer">telegram-канале</a>. Если вы работник Авито в Армении или
+столкнулись с подобной ситуацией на своей работе, пишите в наш
+<a href="https://t.me/itunion_feedback_bot" target="_blank" rel="noopener noreferrer">telegram-бот</a>.</p>
+</div>
+]]></content:encoded>
+      <enclosure url="https://stories.ruitunion.org/stories/2023-08-07-avito-story-1/cover.ru.jpg" type="image/jpeg"/>
+    </item>
+    <item>
       <title>Отжим сертификатов</title>
       <link>https://stories.ruitunion.org/stories/2023-08-04-gop-stop-story/</link>
       <guid>https://stories.ruitunion.org/stories/2023-08-04-gop-stop-story/</guid>
@@ -410,58 +462,6 @@ ruitunion.org@proton.me, и мы её опубликуем.</p>
       <enclosure url="https://stories.ruitunion.org/stories/2023-08-04-gop-stop-story/cover.ru.png" type="image/png"/>
     </item>
     <item>
-      <title>Урезание зарплат в Авито в Армении</title>
-      <link>https://stories.ruitunion.org/stories/2023-08-07-avito-story-1/</link>
-      <guid>https://stories.ruitunion.org/stories/2023-08-07-avito-story-1/</guid>
-      <source url="https://stories.ruitunion.org/rss.xml">Урезание зарплат в Авито в Армении</source>
-      <description>Инфо 1 августа компания Авито поставила оформленных в Армении сотрудников перед выбором: либо понижение зарплаты на 30-40%, либо увольнение с компенсацией за 1 месяц работы. Вот...</description>
-      <category>news</category>
-      <pubDate>Mon, 07 Aug 2023 09:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Инфо</p>
-<p>1 августа компания Авито поставила оформленных в Армении сотрудников
-перед выбором: либо понижение зарплаты на 30-40%, либо увольнение с компенсацией
-за 1 месяц работы. Вот история одного из сотрудников.</p>
-</div>
-<p>Я перевелась в Армению в сентябре 2022. Переезжать надо было в любом случае —
-работа мужа не готова была продолжать сотрудничество с теми, кто оставался в
-России. И изначально «Кех Армения» позиционировался как выход из такой
-безвыходной ситуации.</p>
-<p>Условия звучали нормально: зарплата конвертировалась NET to NET по внутреннему
-курсу компании, который был чуть выше курса ЦБ. Потом они начали меняться.
-Сначала в декабре всех перевели на VAT to VAT — разница между российским НДФЛ
-13% и армянским 20% вычиталась из зарплаты «на руки». В апреле изменился
-внутренний курс. В мае я получила прибавку к зарплате, на которой сказалось и
-то, и другое. Если в рублях сумма&nbsp; звучала неплохо, то после вычета
-дополнительных 7% и пересчёта зарплаты по новому курсу прибавка получилась не
-особенно большой.</p>
-<p>В июле пришла коммуникация о снижении премий. Теперь за сверхрезультат вместо
-100% зарплаты компания обещала около 70%. Объяснялось это справедливостью по
-отношению к тем, кто работает в российских юрлицах и получает зарплату в рублях.
-Казалось, что на этом всё — дальше только закрытие «Кех Армении» и сокращение
-всех сотрудников. Но компания оказалась коварнее.</p>
-<p>Сейчас выбор стоит между зарплатой-рулеткой и увольнением в никуда. Оба стула
-красивые, не знаешь, какой и выбрать. Мы с мужем планировали ехать дальше в
-Европу, и моя новая зарплата будет ненамного выше минимальной на новом месте.
-Это как минимум обидно и как максимум неудобно, ведь тратить я буду не рубли, а
-евро.</p>
-<p>Отношение к Авито за этот год сильно изменилось, ведь компания не держит своего
-слова, и даже трудовой договор ничего для неё не значит — поправим, расторгнем,
-не вопрос. Даже если предположить, что я соглашусь на новые условия, будет
-сложно продолжать работать как прежде. Ведь мой вклад в запуск новых продуктов и
-рост прибыли не даёт мне даже стабильности — получается, всё зря.</p>
-<div class="hint-container info">
-<p class="hint-container-title">Инфо</p>
-<p>Группа работников будет оспаривать законность действий компании. Мы же
-будем следить за событиями и публиковать новости в нашем
-<a href="https://t.me/ruitunion" target="_blank" rel="noopener noreferrer">telegram-канале</a>. Если вы работник Авито в Армении или
-столкнулись с подобной ситуацией на своей работе, пишите в наш
-<a href="https://t.me/itunion_feedback_bot" target="_blank" rel="noopener noreferrer">telegram-бот</a>.</p>
-</div>
-]]></content:encoded>
-      <enclosure url="https://stories.ruitunion.org/stories/2023-08-07-avito-story-1/cover.ru.jpg" type="image/jpeg"/>
-    </item>
-    <item>
       <title>Геймдев, бессмысленный и беспощадный</title>
       <link>https://stories.ruitunion.org/stories/2023-08-15-gamedev-story/</link>
       <guid>https://stories.ruitunion.org/stories/2023-08-15-gamedev-story/</guid>
@@ -481,6 +481,25 @@ ruitunion.org@proton.me, и мы её опубликуем.</p>
 <p>Игр были сотни тысяч, разработчиков</p>
 ]]></content:encoded>
       <enclosure url="https://stories.ruitunion.org/stories/2023-08-15-gamedev-story/cover.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Как один хитрый китаец не хотел работать, а деньги получать хотел</title>
+      <link>https://stories.ruitunion.org/stories/2023-08-31-chinese-guy/</link>
+      <guid>https://stories.ruitunion.org/stories/2023-08-31-chinese-guy/</guid>
+      <source url="https://stories.ruitunion.org/rss.xml">Как один хитрый китаец не хотел работать, а деньги получать хотел</source>
+      <description>Инфо Недавно мы публиковали историю про австралийскую медицину, и один из наших читателей вспомнил, как он чуть было не стал одним из «индусов» (в переносном смысле). Далее текс...</description>
+      <category>posts</category>
+      <pubDate>Thu, 31 Aug 2023 09:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container info">
+<p class="hint-container-title">Инфо</p>
+<p><em>Недавно мы публиковали историю про
+<a href="/stories/2023-07-24-australian-story">австралийскую медицину</a>,
+и один из наших читателей вспомнил, как он чуть было не стал одним из «индусов»
+(в переносном смысле). Далее текст от нашего читателя.</em></p>
+</div>
+<p>Так вот, читал вот это</p>
+]]></content:encoded>
+      <enclosure url="https://stories.ruitunion.org/stories/2023-08-31-chinese-guy/cover.png" type="image/png"/>
     </item>
     <item>
       <title>История про опыт работы в компании Кошелёк – мобильное приложение.</title>
@@ -559,25 +578,6 @@ ruitunion.org@proton.me, и мы её опубликуем.</p>
 <p>#айтистори</p>
 ]]></content:encoded>
       <enclosure url="https://stories.ruitunion.org/stories/2023-09-27-work-experience-in-koshelek-company/cover.png" type="image/png"/>
-    </item>
-    <item>
-      <title>Как один хитрый китаец не хотел работать, а деньги получать хотел</title>
-      <link>https://stories.ruitunion.org/stories/2023-08-31-chinese-guy/</link>
-      <guid>https://stories.ruitunion.org/stories/2023-08-31-chinese-guy/</guid>
-      <source url="https://stories.ruitunion.org/rss.xml">Как один хитрый китаец не хотел работать, а деньги получать хотел</source>
-      <description>Инфо Недавно мы публиковали историю про австралийскую медицину, и один из наших читателей вспомнил, как он чуть было не стал одним из «индусов» (в переносном смысле). Далее текс...</description>
-      <category>posts</category>
-      <pubDate>Thu, 31 Aug 2023 09:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Инфо</p>
-<p><em>Недавно мы публиковали историю про
-<a href="/stories/2023-07-24-australian-story">австралийскую медицину</a>,
-и один из наших читателей вспомнил, как он чуть было не стал одним из «индусов»
-(в переносном смысле). Далее текст от нашего читателя.</em></p>
-</div>
-<p>Так вот, читал вот это</p>
-]]></content:encoded>
-      <enclosure url="https://stories.ruitunion.org/stories/2023-08-31-chinese-guy/cover.png" type="image/png"/>
     </item>
     <item>
       <title>Вот какой ты, испытательный срок</title>
